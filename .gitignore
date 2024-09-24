@@ -1,4 +1,2 @@
-/src/mlp_numpy/data/*
 .venv/
 uv.lock
-
